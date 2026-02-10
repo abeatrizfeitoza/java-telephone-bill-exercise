@@ -5,6 +5,7 @@ public class Main{
     public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
+    System.out.println("Os minutos usados foram:");
     
     int minutos = sc.nextInt();
 
@@ -17,4 +18,5 @@ public class Main{
 
     sc.close();
 }
+
 }
