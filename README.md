@@ -2,7 +2,7 @@
 
 This program simulates a simple phone bill calculator:
 
-Base price: R$50 for up to 100 minutes
+Base price: R$50 until 100 minutes
 
 Extra minutes cost: R$2 per minute
 
